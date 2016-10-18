@@ -1,0 +1,9 @@
+---
+name: 'sluggable'
+After:
+  - 'mysite/*'
+---
+
+Director:
+  rules:
+    'slugpreview//$Object/$ID/$OtherID': 'SluggablePreview'

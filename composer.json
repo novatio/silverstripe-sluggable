@@ -1,0 +1,28 @@
+{
+  "name": "novatio/silverstripe-sluggable",
+  "description": "Extension to add slugs (URLSegments) to any DataObject (with uniqueness check + preview possibility)",
+  "homepage": "https://novat.io",
+  "license": "BSD-3-Clause",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe", "siteconfig", "locale"],
+  "authors": [
+    {
+      "name": "Gabrijel Gavranović",
+      "email": "gabrijel@gavro.nl"
+    }
+  ],
+  "require":
+  {
+    "silverstripe/framework": "~3.4",
+    "silverstripe/cms": "~3.4"
+  },
+  "extra": {
+    "installer-name": "sluggable"
+  },
+  "support":
+  {
+    "email": "info@novat.io",
+    "issues": "https://github.com/novatio/silverstripe-sluggable/issues"
+  },
+  "minimum-stability": "dev"
+}

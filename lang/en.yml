@@ -1,0 +1,4 @@
+en:
+  Sluggable:
+    ADMIN_PERMISSION: 'Access to ''Slug Preview'''
+    CMS_ACCESS_CATEGORY: 'Sluggable'
